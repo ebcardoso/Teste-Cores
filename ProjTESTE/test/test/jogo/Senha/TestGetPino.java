@@ -46,8 +46,8 @@ public class TestGetPino {
             {"cinza", "roxo", "laranja", "rosa", 4, "rosa"},
             
             //caso de exceção com cores inválida
-            {"purpura", "roxo", "laranja", "rosa", -1, "rosa"},
-            {"null", "roxo", "laranja", "rosa", 4, "rosa"}
+            {"purpura", "roxo", "laranja", "rosa", 3, "rosa"},
+            {null, "roxo", "laranja", "rosa", 1, null}
         });
     }
 	
