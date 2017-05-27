@@ -1,4 +1,4 @@
-package jogo.dominio.Senha;
+package test.jogo.Senha;
 
 import static org.junit.Assert.*;
 
